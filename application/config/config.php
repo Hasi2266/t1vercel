@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://hasi2266.github.io/t1vercel/';
+$config['base_url'] = 'http://localhost/t1vercel/';
 
 /*
 |--------------------------------------------------------------------------
